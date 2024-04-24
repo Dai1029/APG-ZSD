@@ -5,4 +5,4 @@ This model is based on the zero-shot object detection model proposed by [SU-ZSD]
 ### The framework for APG-ZSD
 
 
-![](IMG/framework.png)
+![](IMG/paper.png)
